@@ -15,12 +15,18 @@ Podcasts
 
  - Programing and Tech
 	 - OneBitTalk [feed](http://feeds.feedburner.com/Onebitcode)
-	 -  Hipster Ponto Tech
-	 - Castálio Podcast
-	 - NerdTech
-	 - Dev Na Estrada
+	 - [Hipster Ponto Tech](https://hipsters.tech/category/podcast/)
+	 - [Castálio Podcast](http://castalio.info/)
+	 - [NerdTech](https://www.alura.com.br/podcast-nerdtech)
+	 - [Dev Na Estrada](http://devnaestrada.com.br/)
+   - [PodProgramar](https://mundopodcast.com.br/podcasts/)
+   - [Grok Podcast](http://www.grokpodcast.com/)
+   - [Lambda3](https://www.lambda3.com.br/tag/podcast/)
+   - [Dev Samurai](http://devsamurai.com.br/samurai-cast/)
+   - [Opensanca](https://soundcloud.com/opensanca)
+
  - Self Improvement
-	 - Resumo Cast
+	 - [Resumo Cast](https://www.resumocast.com.br/)
 	 - Érico Rocha
 	 - Gabriel Goffi
 	 - GunCast
